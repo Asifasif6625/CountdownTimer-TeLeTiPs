@@ -5,7 +5,7 @@
 # Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/teletips/CountdownTimer-TeLeTiPs/blob/main/LICENSE
                        
   
-START_TEXT = 'Heya,\nMy name is **Countdown Timer** ⏰\n\nI can countdown to your important events in **any group chat**. 🎉\nUse me to keep track of how much time is left for the event ⏳\n\nHit **❓HELP** to find out more about how to use me.'
+START_TEXT = 'Heya,\nMy name is **mv Timer** ⏰\n\nI can countdown to your important events in **any group chat**. 🎉\nUse me to keep track of how much time is left for the event ⏳\n\nHit **❓HELP** to find out more about how to use me.'
 
 GROUP_TEXT="""
 👥 <u>**Help & Support Groups**</u>
@@ -37,4 +37,4 @@ DO NOT do more than two (2) countdowns at the same time using the same bot. (Rea
 
 TUTORIAL_TEXT = "💡 Click the **🎥 Video** button to watch how to create this bot for your group."
 
-#Copyright ©️ 2021 TeLe TiPs. All Rights Reserved.
+#Copyright ©️ 2021 Malayalam vibe. All Rights Reserved.
